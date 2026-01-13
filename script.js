@@ -1,11 +1,11 @@
 // 卡片資料
 const cards = [
-  { name: "舒華", img: "images/shuhua.jpg" },
-  { name: "Miyeon", img: "images/miyeon.jpg" },
-  { name: "小娟", img: "images/soyeon.jpg" },
-  { name: "雨琦", img: "images/yuqi.jpg" },
-  { name: "米妮", img: "images/minnie.jpg" },
-  { name: "I-DLE 團卡", img: "images/idle_group.jpg" }
+  { name: "舒華", img: "shuhua.jpg" },
+  { name: "Miyeon", img: "miyeon.jpg" },
+  { name: "小娟", img: "soyeon.jpg" },
+  { name: "雨琦", img: "yuqi.jpg" },
+  { name: "米妮", img: "minnie.jpg" },
+  { name: "I-DLE 團卡", img: "idle_group.jpg" }
 ];
 
 // 中二文案
